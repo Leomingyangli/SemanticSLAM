@@ -21,11 +21,11 @@ Traing works with default arguments by:
 ```
 python train.py --savedate SaveName
 ```
-SaveName is the name of both logging file and saving models.
+SaveName is the name of logging file and saving models.
 
 # Evaluation
 Evaluation can be done as follows:
 ```
 python evaluate.py --savedate SaveName
 ```
-SaveName is should be same as SaveName during train to load well-trained modles
+SaveName should be same as training to load well-trained modles
