@@ -4,7 +4,7 @@ This is an implementation of SemanticSLam: Learning based Map Construction and R
 # Requirements
 ```
 pip install -r requirements.txt
-pip torch-scatter -f https://data.pyg.org/whl/torch-1.11.0+cu102.html
+pip install torch-scatter -f https://data.pyg.org/whl/torch-1.11.0+cu102.html
 ```
 Note: To install torch-scatter, specify the cuda version which is depending on your PyTorch installation(e.g.cpu, cu102, cu113, or cu115)
 
