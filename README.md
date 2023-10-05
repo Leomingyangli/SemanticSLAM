@@ -1,5 +1,5 @@
 # SemanticSLAM
-This is an implementation of SemanticSLam: Learning based Map Construction and Robust Camera Localization.
+This is an implementation of our paper in SSCI 2023. **SemanticSLam: Learning based Map Construction and Robust Camera Localization**.
 
 # Requirements
 ```
